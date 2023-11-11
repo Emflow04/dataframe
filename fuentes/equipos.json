@@ -1,0 +1,42 @@
+[
+    {
+        "Nombre": "Real Madrid",
+        "Liga": "La Liga",
+        "Ciudad": "Madrid",
+        "Entrenador": "Zinedine Zidane",
+        "Fundación": 1902,
+        "Presupuesto (en millones)": 400.5
+    },
+    {
+        "Nombre": "FC Barcelona",
+        "Liga": "La Liga",
+        "Ciudad": "Barcelona",
+        "Entrenador": "Ronald Koeman",
+        "Fundación": 1899,
+        "Presupuesto (en millones)": 450.2
+    },
+    {
+        "Nombre": "Manchester United",
+        "Liga": "Premier League",
+        "Ciudad": "Manchester",
+        "Entrenador": "Ole Gunnar Solskjær",
+        "Fundación": 1878,
+        "Presupuesto (en millones)": 300.8
+    },
+    {
+        "Nombre": "Liverpool",
+        "Liga": "Premier League",
+        "Ciudad": "Liverpool",
+        "Entrenador": "Jurgen Klopp",
+        "Fundación": 1892,
+        "Presupuesto (en millones)": 380.4
+    },
+    {
+        "Nombre": "Bayern Munich",
+        "Liga": "Bundesliga",
+        "Ciudad": "Munich",
+        "Entrenador": "Julian Nagelsmann",
+        "Fundación": 1900,
+        "Presupuesto (en millones)": 420.7
+    }
+]
